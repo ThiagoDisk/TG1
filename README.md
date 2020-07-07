@@ -48,8 +48,11 @@ O objetivo geral deste trabalho é encontrar possíveis padrões e analisar o po
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 
 •	Realizar uma investigação sobre os atuais candidatos encontrados nos bancos de dados público disponibilizados na internet.
+
 •	Propor possíveis padrões de votos realizados pelos candidatos.
+
 •	Procurar possíveis variáveis que influenciem nos votos.
+
 •	Expor possível falso posicionamento politico.
 
 
