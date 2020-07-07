@@ -25,14 +25,22 @@ Título do TG: (título)
 
 
 É recorrente os anúncios e alertar a respeito das famosas “Fake News” e diante um gigantes mar de informações relevantes que somos expostos em nosso cotidiano através da internet, é difícil distinguir o que é real e o que pode ser falso. [1]
+
 Estar informações falsas são circuladas em grande quantidade através de redes sociais e muitas vezes até serem identificadas como falsas, já fizeram grande estrago.
 Entretanto, informação é nosso principal pilar ao realizarmos nossos direitos civil de voto e com a presença das Fake News podemos ser levados a realizar erros em nossas decisões a respeito de quem colocar no poder.
+
 Diante tal adversidade é preciso que o eleitor pesquise as fontes de cada artigo, após esta validação seria preciso que o mesmo buscasse as emendas propostas e votadas por seu candidato para ver se suas ações estão de acordo com o proposto em seus discursos e por final tentar alinhar e encontrar possíveis ligações ou motivos que levaram o seu candidato a tomar tais decisões.
+
 Como partida que pertence, ligações com empresas, votos e emendas efetuadas anteriormente, tudo isto gerando um grande desgaste para o eleitor.
+
 Estas ideias, buscam em captar o voto do eleitor e são baseadas nas três leis Vans Parijs.
+
 A primeira sendo a força educativa da caça aos votos, faz com que a classe política tenha uma necessidade de correr atrás de eleitores e de votos, isso forçando os líderes políticos a ter contato e ouvir sua população caso queiram ser reeleitos fazendo com que eles tomassem decisões melhores. 
+
 A segunda razão é baseada na deliberação que a democracia trás, que é a formulação e discussão de argumentos, o processo de diálogo e embate de ideias. Então a força da hipocrisia vai atuar nas discussões que a democracia tem, tanto nas pré eleições, na campanha eleitoral, em debates, como depois das eleições em camarás. Essa necessidade de diálogo faz com que os candidatos tentem a desenvolver discursos que apelem para o interesse geral da população, ou ao menos dos interesses do eleitorado dele ou representados na assembleia. 
+
 "Sincero ou não, esse discurso acaba tendo algum impacto sobre os atos dos aspirantes a líderes. A necessidade de soar bem no fórum deliberativo civiliza não somente suas palavras, mas também suas políticas" - Vans Parijs.
+
 E a terceira força, a força disciplinadora da autoimposição, é a força que dá poder ao povo de tirar do poder quem está lá, isso é um mecanismo para tentar garantir as duas primeiras forças. [2]
 
 ## 1.1. Objetivos do Trabalho 
